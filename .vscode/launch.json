@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\01webpacktest.js"
+            "program": "${workspaceFolder}\\01fs和path\\01.fs-redfile读取文件.js"
         }
     ]
 }

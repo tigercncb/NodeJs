@@ -1,5 +1,5 @@
 const fs=require("fs");
-fs.readFile("files/成绩.txt","utf-8",function(error,data){
+fs.readFile(__dirname+"/files/成绩.txt","utf-8",function(error,data){
     if(error)
     {
         console.log(error)
